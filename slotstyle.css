@@ -1,0 +1,73 @@
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  background-image: url(./free-photo-green-dynamic-grunge-abstract-background-pattern-wallpaper.jpg);
+  background-size: cover;
+background-repeat: no-repeat;
+}
+
+.hone{
+    font-size: 60px;
+    color: white;
+}
+
+#slotMachine {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    padding-top: 50px;
+}
+
+.reel {
+    font-size: 50px;
+    font-weight: 540;
+    padding: 25px;
+    margin: 0 5px;
+    border: 2px solid #333;
+    border-radius: 10px;
+    width: 60px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+    align-items: center;
+    overflow: hidden;
+    background-color: lightblue;
+    color: black;
+}
+
+button {
+    font-size: 30px;
+    padding: 10px 16px;
+    background-color: rgb(4, 43, 4);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+
+p {
+  font-size: 24px;
+  color: white;
+}
+
+.btnstyle{
+background-color: #174b03;
+max-width: 500px;
+width: 100%;
+margin: 0 auto;
+height: 320px;
+perspective: 1000px;
+border: 2px solid #174b03;
+box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+perspective: 1000px;
+position: relative;
+overflow: hidden;
+
+}
+
